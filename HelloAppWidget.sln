@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAppWidget", "HelloAppWidget\HelloAppWidget.csproj", "{CD50E62E-53BF-4D21-8E05-5BD1CF407D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD50E62E-53BF-4D21-8E05-5BD1CF407D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD50E62E-53BF-4D21-8E05-5BD1CF407D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD50E62E-53BF-4D21-8E05-5BD1CF407D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD50E62E-53BF-4D21-8E05-5BD1CF407D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
